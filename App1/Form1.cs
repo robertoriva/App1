@@ -19,7 +19,7 @@ namespace App1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int teste = 2;
+            int teste = 255;
         }
     }
 }
